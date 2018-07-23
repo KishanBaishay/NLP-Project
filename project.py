@@ -1,4 +1,4 @@
-
+# Natural Language Interface to Database
 import re
 import collections
 texts = ['John likes to watch movies. Mary likes too.',
